@@ -63,7 +63,7 @@ while True:
 
 
     
-
+    print(results.multi_handedness)
     print(hcx, hcy, cx,cy)
 
     cv2.imshow('Tracking', image)
